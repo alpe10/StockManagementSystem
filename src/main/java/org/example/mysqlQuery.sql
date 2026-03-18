@@ -61,6 +61,7 @@ VALUES ('admin','1234','admin',1);
 INSERT INTO users(username,password,role,status)
 VALUES ('emir','1234','admin',true);
 
+<<<<<<< HEAD
 INSERT INTO users(username,password,role,status)
 VALUES ('tugce','1234','admin',true);
 
@@ -147,6 +148,10 @@ SELECT * FROM suppliers;
 SELECT * FROM products;
 SELECT * FROM stock_movements;
 SELECT * FROM orders;
+=======
+
+
+>>>>>>> 4aaa2ec6dc044528cbecee2290688d5f2ccb1db7
 SELECT * FROM users;
 
 
